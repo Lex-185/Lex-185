@@ -4,7 +4,7 @@
 
 ## <b> Fun stuff </b>
 + Podcasts: [Artificial Intelligence](https://www.youtube.com/@lexfridman), [Huberman Lab](https://www.youtube.com/@hubermanlab), [The Drive](https://www.youtube.com/@PeterAttiaMD)
-+ "There's a Benefit to losing: you get to learn from your mistakes." - Megamind
++ "There's a benefit to losing: you get to learn from your mistakes." - Megamind
 
 ## <b> Languages & Tools </b>
 
