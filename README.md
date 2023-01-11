@@ -19,7 +19,7 @@
 ## <b> Github Stats </b>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lex-185&show_icons=true&theme=react&&hide_border=true" width='400'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lex-185&show_icons=true&theme=react&&hide_border=true&count_private=true" width='400'/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lex-185&&theme=react&&hide_border=true" width='400'/>
 </div>
 <!---
