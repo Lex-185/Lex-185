@@ -1,6 +1,5 @@
 ## <b> About me </b>
 + Interested in Computer Science.
-+ Currently learning Web Development through the Odin Project.
 
 ## <b> Fun stuff </b>
 + Podcasts: [Lex Fridman](https://www.youtube.com/@lexfridman), [Huberman Lab](https://www.youtube.com/@hubermanlab), [The Drive](https://www.youtube.com/@PeterAttiaMD)
