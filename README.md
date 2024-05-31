@@ -1,5 +1,4 @@
 ## <b> Fun stuff </b>
-+ Podcasts: [Lex Fridman](https://www.youtube.com/@lexfridman), [Huberman Lab](https://www.youtube.com/@hubermanlab), [The Drive](https://www.youtube.com/@PeterAttiaMD)
 + "There's a benefit to losing: you get to learn from your mistakes." - Megamind
 
 ## <b> Languages & Tools </b>
